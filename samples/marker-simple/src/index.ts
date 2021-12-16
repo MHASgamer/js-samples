@@ -16,7 +16,7 @@
 
 // [START maps_marker_simple]
 function initMap(): void {
-  const myLatLng = { lat: -25.363, lng: 131.044 };
+  const myLatLng = { lat: -1,2690739, lng: 116,8429329 };
 
   const map = new google.maps.Map(
     document.getElementById("map") as HTMLElement,
